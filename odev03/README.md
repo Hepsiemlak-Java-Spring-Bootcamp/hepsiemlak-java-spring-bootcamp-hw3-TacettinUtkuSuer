@@ -10,3 +10,5 @@
 
 Ekran görüntüleri Sekiller klasöründe yer almaktadır.
 
+GitHub hata verdiği için dosyaları zipleyip koymak zorunda kaldım.
+
